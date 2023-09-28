@@ -1,2 +1,2 @@
 # Client-Server Student Info Exchange System
- 
+In this computer networking project a client-server architecture has been implemented using socket programming to exchange student information across various departments of a university. The system operates with a centralized server where student data is stored and can be accessed by authorized clients(departments). This project aims to streamline the sharing of information within the university, making it easier for different departments to access and update student records as needed.
